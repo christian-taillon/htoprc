@@ -32,8 +32,7 @@ account_guest_in_cpu_meter=0
 color_scheme=0
 enable_mouse=1
 delay=15
-left_meters=Uptime Blank Hostname DateTime Systemd SELinux NetworkIO DiskIO Blank Swap Memory Tasks Blank
-CPU AllCPUs
+left_meters=Uptime Blank Hostname DateTime Systemd SELinux NetworkIO DiskIO Blank Swap Memory Tasks Blank CPU AllCPUs
 left_meter_modes=4 2 2 2 2 2 2 2 2 1 1 1 2 1 1
 right_meters=Blank Memory Blank CPU Blank AllCPUs2
 right_meter_modes=2 3 2 3 2 3
